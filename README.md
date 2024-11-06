@@ -1,2 +1,2 @@
-# social-media-website-with-admin-panel
-Developed By Monu Giri (Dev Ninja)
+# social-media-website
+Developed By Zafar Ali Khan, Jiwan Kumar, Aashutosh Kumar
